@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UglyBeard Security Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on UglyBeard Security Blog</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primo writeup di cybersecurity</title>
+      <link>http://localhost:1313/posts/primo-post/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/primo-post/</guid>
+      <description>&lt;p&gt;Benvenuto nel mio blog di cybersecurity.&lt;/p&gt;
+&lt;h2 id=&#34;cosa-troverai&#34;&gt;Cosa troverai&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CTF writeup&lt;/li&gt;
+&lt;li&gt;Web security&lt;/li&gt;
+&lt;li&gt;Malware analysis&lt;/li&gt;
+&lt;li&gt;Tool e cheat sheet&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

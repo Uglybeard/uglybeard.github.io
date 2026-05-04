@@ -1,0 +1,10 @@
+baseURL = "https://uglybeard.github.io/"
+languageCode = "it-it"
+title = "UglyBeard Security Blog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
